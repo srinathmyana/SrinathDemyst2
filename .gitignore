@@ -1,0 +1,6 @@
+# Ignore Python virtual environment
+airflow_venv/
+
+# Ignore Airflow logs and temporary files
+airflow/logs/
+output/
